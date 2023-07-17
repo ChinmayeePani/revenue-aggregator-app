@@ -1,0 +1,17 @@
+.app{
+  width:100vw;
+  height:100vh;
+  background-color:#d3d2d2;
+  display: grid;
+  place-items: center; 
+  position: relative;
+}
+.no-products{
+  color:#ffffff;
+}
+.app-name{
+  position: absolute;
+  top:0rem;
+  left:1rem;
+  color:#337247;
+}
